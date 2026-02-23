@@ -378,7 +378,7 @@ h3 {
   font-size: 1.25rem;
   position: absolute;
   right: 38px;
-  top: 55px;
+  top: 35px;
 }
 
 .card li a {
@@ -393,7 +393,7 @@ h3 {
 }
 
 .card .card-content {
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 .card .card-content p {
